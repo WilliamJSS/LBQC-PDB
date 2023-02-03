@@ -1,3 +1,34 @@
+# Jupyter Notebook
 .ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Log files from web scraping
 log/
-PDBs/
+
+# PDBs
+!PDBs/*
+PDBs/*/*
+
+## APD3
+!PDBs/APD3/APD3*.csv
+
+## CancerPPD
+!PDBs/CancerPPD/CancerPPD*.csv
+
+## DBBASP
+!PDBs/DBBASP/DBBASP*.csv
+
+## FermFooDb
+!PDBs/FermFooDb/FermFooDb*.csv
+
+## FooDb
+PDBs/FooDb/
+
+## MAHMI
+!PDBs/MAHMI/MAHMI*.csv
+
+## PepBDB
+!PDBs/PepBDB/PepBDB*.csv
+
+## THPdb
+!PDBs/THPdb/THPdb*.csv
