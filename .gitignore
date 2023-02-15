@@ -14,25 +14,22 @@ log/
 PDBs/*/*
 
 ## APD3
-!PDBs/APD3/APD3*.csv
+!PDBs/APD3_releases/APD3*.csv
 
 ## CancerPPD
-!PDBs/CancerPPD/CancerPPD*.csv
+!PDBs/CancerPPD_releases/CancerPPD*.csv
 
 ## DBBASP
-!PDBs/DBBASP/DBBASP*.csv
+!PDBs/DBBASP_releases/DBBASP*.csv
 
 ## FermFooDb
-!PDBs/FermFooDb/FermFooDb*.csv
-
-## FooDb
-PDBs/FooDb/
+!PDBs/FermFooDb_releases/FermFooDb*.csv
 
 ## MAHMI
-!PDBs/MAHMI/MAHMI*.csv
+!PDBs/MAHMI_releases/MAHMI*.csv
 
 ## PepBDB
-!PDBs/PepBDB/PepBDB*.csv
+!PDBs/PepBDB_releases/PepBDB*.csv
 
 ## THPdb
-!PDBs/THPdb/THPdb*.csv
+!PDBs/THPdb_releases/THPdb*.csv
