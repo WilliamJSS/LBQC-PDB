@@ -25,6 +25,9 @@ PDBs/*/*
 ## FermFooDb
 !PDBs/FermFooDb_releases/FermFooDb*.csv
 
+## LBQCPDB
+!PDBs/LBQCPDB_releases/LBQCPDB*.csv
+
 ## MAHMI
 !PDBs/MAHMI_releases/MAHMI*.csv
 
