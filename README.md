@@ -3,12 +3,12 @@
 This PDB uses peptides sequences from others databases, see at:
 
 * [APD3](https://aps.unmc.edu)
-* [CancerPPD](http://crdd.osdd.net/raghava/cancerppd/index.php)
+* [CancerPPD](https://webs.iiitd.edu.in/raghava/cancerppd/index.php)
 * [DBBASP v3.0](https://dbaasp.org/home)
 * [FermFooDb](https://webs.iiitd.edu.in/raghava/fermfoodb/)
 * [MAHMI Database](https://www.sing-group.org/mahmi/index.php)
 * [PepBDB](http://huanglab.phys.hust.edu.cn/pepbdb/)
-* [THPdb](http://crdd.osdd.net/raghava/thpdb/)
+* [THPdb](https://webs.iiitd.edu.in/raghava/thpdb/index.html)
 
 ## Databases
 
@@ -19,9 +19,10 @@ This PDB uses peptides sequences from others databases, see at:
 > [3] Wang, Z. and Wang, G. (2004) APD: the antimicrobial peptide database. Nucleic Acids Research 32, D590-D592.
 > Last updated: Jan 2023 | Copyright 2003-2023 Dept of Pathology & Microbiology, UNMC, All Rights Reserved
 
-### [CancerPPD](http://crdd.osdd.net/raghava/cancerppd/index.php)
+### [CancerPPD](https://webs.iiitd.edu.in/raghava/cancerppd/index.php)
 
->
+> Tyagi et al., (2015) CancerPPD: a database of anticancer peptides and proteins
+> Nucl. Acids Res. 43:D837-43.
 
 ### [DBBASP v3.0](https://dbaasp.org/home)
 
@@ -49,6 +50,7 @@ This PDB uses peptides sequences from others databases, see at:
 > [5] Berman HM, Westbrook J, Feng Z, Gilliland G, Bhat TN, Weissig H, Shindyalov IN, Bourne PE. The Protein Data Bank. Nucleic Acids Res 2000;28:235-242.
 > [6] Laskowski RA, Swindells MB. LigPlot+: multiple ligand-protein interaction diagrams for drug discovery. J Chem Inf Model 2011;51:2778-2786.
 
-### [THPdb](http://crdd.osdd.net/raghava/thpdb/)
+### [THPdb](https://webs.iiitd.edu.in/raghava/thpdb/index.html)
 
->
+>  Usmani SS, Bedi G, Samuel JS, Singh S, Kalra S, Kumar P, et al. (2017) THPdb: Database of FDA-approved peptide and protein therapeutics. PLoS ONE 12(7) e0181748
+
