@@ -1,0 +1,75 @@
+Activity,APD3,CancerPPD,DBBASP,FermFooDb,MAHMI,PepBDB,THPdb,Total
+Ace-inhibitory,0,0,0,859,0,0,0,859
+Angiogenisis,0,0,0,1,0,0,0,1
+Antagonistic,0,0,0,1,0,0,0,1
+Anti-Gram+,2650,0,0,0,0,0,0,2650
+Anti-Gram-,2417,0,0,0,0,0,0,2417
+Anti-HIV,109,0,0,0,0,0,0,109
+Anti-MRSA,247,0,0,0,0,0,0,247
+Anti-TB,14,0,0,0,0,0,0,14
+Anti-diabetes,20,0,0,0,0,0,0,20
+Anti-hypertensive,0,3,0,204,0,0,0,207
+Anti-inflammatory,40,0,0,1,72258,0,0,72299
+Anti-microbial,0,1329,0,25,0,0,0,1354
+Anti-microbial against B. megaterium F6 as indicator,0,0,0,16,0,0,0,16
+Anti-microbial against Cronobacter sakazakii DPC 6440,0,0,0,4,0,0,0,4
+Anti-microbial against E. coli ATCC 8099,0,0,0,3,0,0,0,3
+Anti-microbial against Enterobacter sakazakii ATCC 12868,0,0,0,3,0,0,0,3
+Anti-microbial against S.aureus,0,0,0,4,0,0,0,4
+Anti-sepsis,92,0,0,0,0,0,0,92
+Anti-toxin,16,0,0,0,0,0,0,16
+Antiangiogenesis,0,27,0,0,0,0,0,27
+Antiangiogenic,0,1,0,0,0,0,0,1
+Antibacterial,0,672,0,39,0,0,0,711
+Antibacterial against Enterococcus faecium,0,0,0,1,0,0,0,1
+Antibiofilm,83,0,0,0,0,0,0,83
+Anticancer,271,2977,0,0,0,0,0,3248
+Antifungal,1283,303,0,0,0,0,0,1586
+Antimalarial,33,0,0,0,0,0,0,33
+Antineoplastic,0,8,0,0,0,0,0,8
+Antioxidant,33,3,0,124,0,0,0,160
+Antiparasitic,140,0,0,0,0,0,0,140
+Antiplasmodial,0,1,0,0,0,0,0,1
+Antiproliferative,0,1,0,0,0,0,0,1
+Antithrombotic,0,0,0,11,0,0,0,11
+Antitumor,0,321,0,0,0,0,0,321
+Antitumoral,0,0,0,1,0,0,0,1
+Antiviral,202,3,0,0,0,0,0,205
+Attenuate hepatitis,0,0,0,19,0,0,0,19
+Bacillus megaterium,0,0,0,1,0,0,0,1
+Calmodulin Antagonist,0,0,0,1,0,0,0,1
+Candidacidal,736,0,0,0,0,0,0,736
+Casoxin A (Opioid antagonist),0,0,0,1,0,0,0,1
+Casoxin C (Opioid antagonist),0,0,0,1,0,0,0,1
+Channel inhibitors,7,0,0,0,0,0,0,7
+Chemotactic,70,0,0,0,0,0,0,70
+Cholestrol-lowering,0,0,0,29,0,0,0,29
+Colitis,0,0,0,1,0,0,0,1
+Cytomodulatory,0,0,0,3,0,0,0,3
+Cytotoxic,0,0,0,0,5852,0,0,5852
+Enzyme inhibitor,33,0,0,0,0,0,0,33
+Escherichia coli,0,0,0,1,0,0,0,1
+Escherichia coli DPC5063,0,0,0,3,0,0,0,3
+Food allergy prevention,0,0,0,1,0,0,0,1
+Hemolytic,296,0,0,0,0,0,0,296
+Immunomodulant,0,2,0,0,0,0,0,2
+Immunomodulatory,0,0,0,47,183159,0,0,183206
+Immunostimulatory,0,0,0,1,0,0,0,1
+Insecticidal,42,0,0,0,0,0,0,42
+Intestinal protection,0,0,0,1,0,0,0,1
+LOX inhibitor,0,0,0,4,0,0,0,4
+Listeria innocua,0,0,0,1,0,0,0,1
+Migration/Adhesion,0,0,0,0,15131,0,0,15131
+Mitogene,0,0,0,10,0,0,0,10
+Not Found,0,0,20420,0,0,13301,852,34573
+Opioid,0,0,0,10,0,0,0,10
+Opioid agonist,0,0,0,4,0,0,0,4
+Opioid antagonist,0,0,0,1,0,0,0,1
+Red blood cell binding,0,0,0,1,0,0,0,1
+Salmonella spp.,0,0,0,1,0,0,0,1
+Spermicidal,14,0,0,0,0,0,0,14
+Staphylococcus aureus,0,0,0,1,0,0,0,1
+Synergistic AMPs,47,0,0,0,0,0,0,47
+Two-chain AMPs,35,0,0,0,0,0,0,35
+Wound healing,25,0,0,0,0,0,0,25
+Yersinia enterocolitica,0,0,0,1,0,0,0,1

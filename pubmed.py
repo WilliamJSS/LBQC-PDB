@@ -1,8 +1,4 @@
-from selenium import webdriver
 from selenium.webdriver.common.by import By
-from datetime import datetime
-import pandas as pd
-import os
 
 url = 'https://pubmed.ncbi.nlm.nih.gov'
 
