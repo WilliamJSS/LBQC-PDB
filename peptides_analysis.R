@@ -1,7 +1,5 @@
 # Download Packages
-# install.packages("Peptides", dependencies=TRUE)
-# install.packages("tidyverse")
-# install.packages("ggpubr")
+# install.packages("Peptides", dependencies=TRUE) # nolint
 
 # Reading Rpeptides
 library(Peptides)
