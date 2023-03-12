@@ -14,29 +14,29 @@ __pycache__/
 log/
 
 # PDBs
-!PDBs/*
-PDBs/*/*
+!PDBs_releases/*
+PDBs_releases/*/*
 
 ## APD3
-!PDBs/APD3_releases/APD3*.csv
+!PDBs_releases/APD3/APD3*.csv
 
 ## CancerPPD
-!PDBs/CancerPPD_releases/CancerPPD*.csv
+!PDBs_releases/CancerPPD/CancerPPD*.csv
 
 ## DBBASP
-!PDBs/DBBASP_releases/DBBASP*.csv
+!PDBs_releases/DBBASP/DBBASP*.csv
 
 ## FermFooDb
-!PDBs/FermFooDb_releases/FermFooDb*.csv
+!PDBs_releases/FermFooDb/FermFooDb*.csv
 
 ## LBQCPDB
-!PDBs/LBQCPDB_releases/LBQCPDB*.csv
+!PDBs_releases/LBQCPDB/LBQCPDB*.csv
 
 ## MAHMI
-!PDBs/MAHMI_releases/MAHMI*.csv
+!PDBs_releases/MAHMI/MAHMI*.csv
 
 ## PepBDB
-!PDBs/PepBDB_releases/PepBDB*.csv
+!PDBs_releases/PepBDB/PepBDB*.csv
 
 ## THPdb
-!PDBs/THPdb_releases/THPdb*.csv
+!PDBs_releases/THPdb/THPdb*.csv
